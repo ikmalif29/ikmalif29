@@ -67,7 +67,7 @@ Saya suka membangun proyek-proyek keren, belajar hal baru di dunia teknologi, da
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" />
 </p>
 
 ---
