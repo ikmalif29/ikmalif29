@@ -41,6 +41,29 @@ Saya suka membangun proyek-proyek keren, belajar hal baru di dunia teknologi, da
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ikmalfauzaeni&theme=radical&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ikmalfauzaeni&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="Ikmal's GitHub Stats" height="180px" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ikmalfauzaeni&theme=radical&border_radius=10" alt="Ikmal's GitHub Streak" height="180px" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikmalfauzaeni&layout=compact&theme=radical&border_radius=10&langs_count=6" alt="Top Languages" height="180px" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ikmalfauzaeni&theme=radical&border_radius=10&layout=compact" alt="Wakatime Stats" height="180px" />
+</p>
+
+---
 
 ## 🌐 Connect With Me
 
