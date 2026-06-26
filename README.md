@@ -41,18 +41,19 @@ Saya suka membangun proyek-proyek keren, belajar hal baru di dunia teknologi, da
 
 ---
 
+---
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ikmalfauzaeni&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=IKMAL_USERNAME_KAMU&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ikmalfauzaeni&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IKMAL_USERNAME_KAMU&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikmalfauzaeni&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IKMAL_USERNAME_KAMU&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
 ---
